@@ -118,8 +118,8 @@ body {
 .period{
         font-style: normal;
         font-weight: 400;
-        font-size: 12px;
-        line-height: 15px;
+        font-size: 14px;
+        line-height: 17px;
         color: var(--text-color);
         margin-bottom: 10px;
 }
@@ -165,8 +165,8 @@ margin-left: 15px;
 .period-educ{
         font-style: normal;
         font-weight: 400;
-        font-size: 12px;
-        line-height: 15px;
+        font-size: 14px;
+        line-height: 17px;
         color: var(--text-color);
 }
 
@@ -204,8 +204,8 @@ margin-left: 15px;
     text-decoration: none;
     font-style: normal;
     font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
+    font-size: 18px;
+    line-height: 27px;
     color:var(--bacground);
 }
 .contact-link:hover,
@@ -225,15 +225,15 @@ margin-left: 15px;
     color: var(--bacground);
     font-style: normal;
     font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
+    font-size: 18px;
+    line-height: 27px;
 }
 .soft-skills-text{
     color: var(--bacground);
     font-style: normal;
     font-weight: 400;
-    font-size: 16px;
-    line-height: 24px;
+    font-size: 18px;
+    line-height: 27px;
 }
 .soft-skills-list{
     color: var(--bacground);
@@ -269,4 +269,5 @@ margin-left: 15px;
 
 .mine-contacts{
     margin: 0;
+    
 }
